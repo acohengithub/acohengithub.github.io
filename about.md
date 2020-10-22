@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Alex
 permalink: /about/
 ---
 
-Some information about you!
+This is my simple expression of a complex thought. Modern art
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My modest mind tends to contest norms
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alexaccohen@gmail.com](mailto:alexaccohen@gmail.com)
